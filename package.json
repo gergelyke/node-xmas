@@ -1,0 +1,7 @@
+{
+  "name": "Node-Xmas",
+  "version": "0.0.1",
+  "dependencies": {
+    "ansi-canvas": "0.0.2"
+  }
+}
